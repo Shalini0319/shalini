@@ -1,0 +1,20 @@
+verify if the coffee vending machine is switched on 		
+verify that   the coffee vending machine is switched off when   the user presses the  switch off button		
+verify that all the buttons in the vending machine are  working properly or not 		
+verify when the vending machine starts,  the indicator's light is working or not		
+verify that  the colour  of the vending machine is well-branded as per the specification		
+verify the quantity of the milk ,coffee poweder/beans are accepted as per teh capacity.		
+verify that coffee machine grinds the coffee beans properly		
+ verify that  the coffee powder holder is correctly inserted in  the machine		
+ verify that the milk frother produces proper   froth at the specified speed		
+ verify  that the pump pressure is  set as per the requirement.		
+verify that the temperature of milk is well-regulated in the coffee machine		
+verify that no leakage inside coffee machine		
+ check whether the message is properly shown on the screen after any functionality.		
+verify that the auto-cleaner is working or not		
+verify that the moisture is  not entered in the machine		
+check whether the machine is not damaged with voltage variation		
+ check whether the power cables are not in the damaged conditions		
+check whether the coffee  machine nozzel  is not out of shape as per the specification		
+check whether the internal parts of coffee machine are cleaned.		
+verify that coffee machine should not make  too much sound while functioning.		
