@@ -1,0 +1,20 @@
+verify if the user is able to download the application  from the app store.
+check whether the space is available for the application
+verify when the user enters in the application for  first time ,he/she is able to create the account using his/her phone number.
+verify when user enters teh phone number , user is prompted to make sure that the sim card must be available for the message of verification
+check whether the authentication otp is received on the specified number or not .
+verify that the application lands the user to the username page after successful verification for the name.
+check whether an alert message appears  when a username is not entered.
+verify that the user is prompted to enter the backup account email  id  after entering  name field and clicking confirm button.
+check whether it ask for the restore now option after entering the valid eamil id.
+check whether all data is backed up from the existing account including  chats ,videos or documents.
+check if app lands to the homepage with UI components and features as per teh requirements.
+check if all chats ,calls and status tabs show blank page for new account while restored data is visible for existing account
+check if the user is navigated to the corresponding page  after clicking on the contact tab
+verify that the serach option is working fine or not
+check whether user is able to make group with group name and get option to make group admin with the functionality of adding group members.
+check if user is navigated to the chat window after clicking on the  chat.
+check whether user is able to receive all types of file like text ,audio,video and documents successfully.
+check if the blue tick is shown ,whenever message is received or sent.
+check if the audio call and video call tabs are working on the chat window.
+check if all the  group members  are able to send and receive messages in the group.
